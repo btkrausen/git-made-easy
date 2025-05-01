@@ -1,0 +1,4 @@
+# Don't track log files
+*.log
+
+# Don't track the requirements text file
