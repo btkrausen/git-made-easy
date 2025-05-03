@@ -10,3 +10,5 @@ To get started, clone the repository:
 ```bash
 git clone https://github.com/btkrausen/git-made-easy
 ```
+
+## This is a test
